@@ -22,9 +22,6 @@ Models can be downloaded with links at `pretrained_models`.
 | `stylegan3-peer-7k-classC.pkl` | stylegan3-T, unconditional | 8,192 | `peer-7k-classC` |
 | `stylegan3-peer-7k-classCD.pkl` | stylegan3-T, unconditional | 8,192 | `peer-7k-classCD` |
 
-## Dependencies
-Refer to StyleGAN3 (https://github.com/NVlabs/stylegan3)
-
 ## Citation
 If you use this data or code for your research, please cite our paper:
 
