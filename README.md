@@ -9,6 +9,8 @@ Records are saved as spectrograms in `*.png` format at `datasets`, use **GLA** f
 | Filename | Samples | Source | Site Class |
 | :--- | :--- | :--- | :--- |
 | `kiknet-15k-128x128.zip` | 15,780 | KiK-net | C |
+| `kiknet-fake-part1-128x128.zip` | 32,000 | `stylegan3-kiknet-15k.pkl` | - |
+| `kiknet-fake-part2-128x128.zip` | 54,400 | `stylegan3-kiknet-15k.pkl` | - |
 | `peer-7k-classC-128x128.zip` | 3,798 | PEER NGA-West2 | C |
 | `peer-7k-classCD-128x128.zip` | 7,174 | PEER NGA-West2 | C&D |
 
