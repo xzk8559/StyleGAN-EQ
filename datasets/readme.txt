@@ -4,6 +4,14 @@ The earthquake ground motion spectrogram datasets can be downloaded at:
 --------------------------
 https://drive.google.com/file/d/1Pnx1RUsdLJrWS-6N9jYt6KA-xJJWkVvU/view?usp=sharing
 
+(kiknet-15k-fake-part1-128x128.zip, 32000 samples)
+---------------------------------------
+https://drive.google.com/file/d/1ZDU7qKrEwFAiQk_eIX9LdrlWt9U2soqE/view?usp=sharing
+
+(kiknet-15k-fake-part2-128x128.zip, 54400 samples)
+---------------------------------------
+https://drive.google.com/file/d/1cj7XAwYHgBgp50ETdjyVPfuTp-cUWxmm/view?usp=sharing
+
 
 (peer-7k-classC-128x128.zip)
 -------------------------------
